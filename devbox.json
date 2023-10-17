@@ -1,6 +1,5 @@
 {
   "packages": [
-    "nodejs@latest",
     "poetry@latest",
     "python3@latest"
   ],
