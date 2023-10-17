@@ -5,7 +5,7 @@
     "python3@latest"
   ],
   "env": {
-    "__POETRY_PYPROJECT_DIR": "$PWD/service"
+    "DEVBOX_PYPROJECT_DIR": "$PWD/service"
   },
   "shell": {
     "init_hook": [
